@@ -2,8 +2,7 @@ import openai
 import json
 
 # Replace with your API key
-api_key = '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'
-# Set up the OpenAI API client
+api_key = 'XXX' # Replace with your API key
 openai.api_key = api_key
 
 # Initialize an empty list to store the results
